@@ -1,7 +1,6 @@
 # حسابي — تحميل التطبيق
 
-📲 **تحميل لمعظم الهواتف:** [hisabi-arm64.apk](https://github.com/<username>/hisabi-releases/releases/latest/download/hisabi-arm64.apk)
-📲 **للهواتف القديمة:** [hisabi-arm32.apk](https://github.com/<username>/hisabi-releases/releases/latest/download/hisabi-arm32.apk)
+📲 **للهواتف:** [hisabi-arm32.apk](https://github.com/ahmedprogriming/hisabi-releases/releases/download/v1.0.1/hisabi_v2.0.1-arm64.apk)
 
 ## طريقة التثبيت
 1. افتح الرابط من Chrome واضغط تنزيل.
